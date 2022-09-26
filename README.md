@@ -1,3 +1,3 @@
 # github-profile
 
-![snake gif](https://github.com/nafiswatsiq/github-profile/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nafiswatsiq/nafiswatsiq/blob/output/github-contribution-grid-snake.gif)
