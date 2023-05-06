@@ -19,4 +19,4 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiswatsiq&&theme=tokyonight" alt="nafiswatsiq" /></p>
 
 
-![snake gif](https://github.com/nafiswatsiq/nafiswatsiq/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/nafiswatsiq/nafiswatsiq/blob/output/github-contribution-grid-snake.gif) -->
