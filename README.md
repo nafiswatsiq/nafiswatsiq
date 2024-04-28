@@ -12,9 +12,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,bootstrap,tailwind,react,php,laravel,nodejs,express,mongodb,mysql,postgres,firebase,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,bootstrap,tailwind,react,php,laravel,nodejs,express,mongodb,mysql,postgres,firebase,figma" />
   </a>
 </p>
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiswatsiq&show_icons=true&locale=en&theme=tokyonight" alt="nafiswatsiq" /></p> -->
