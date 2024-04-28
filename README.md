@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://nafiswatsiq.github.io/">
     <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,bootstrap,tailwind,react,php,laravel,nodejs,express,mongodb,mysql,postgres,firebase,figma" />
   </a>
 </p>
