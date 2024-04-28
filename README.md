@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,alpinejs,bootstrap,tailwind,react,php,laravel,nodejs,express,mongodb,mysql,postgres,firebase,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,alpinejs,bootstrap,tailwind,react,php,laravel,nodejs,express,mongodb,mysql,postgres,firebase,figma&perline=12)](https://skillicons.dev)
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiswatsiq&show_icons=true&locale=en&theme=tokyonight" alt="nafiswatsiq" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiswatsiq&&theme=tokyonight" alt="nafiswatsiq" /></p>
