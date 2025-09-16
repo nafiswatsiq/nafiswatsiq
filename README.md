@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://nafiswatsiq.github.io/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,bootstrap,tailwind,react,php,laravel,ts,nextjs,nodejs,express,mysql,postgres,firebase,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,alpinejs,bootstrap,tailwind,react,php,laravel,ts,nextjs,nodejs,express,mysql,postgres,firebase,supabase,figma" />
   </a>
 </p>
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiswatsiq&show_icons=true&locale=en&theme=tokyonight" alt="nafiswatsiq" /></p> -->
