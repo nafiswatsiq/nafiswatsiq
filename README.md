@@ -20,7 +20,7 @@
 </p>
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiswatsiq&show_icons=true&locale=en&theme=tokyonight" alt="nafiswatsiq" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiswatsiq&&theme=tokyonight" alt="nafiswatsiq" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nafiswatsiq&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 
 
 <!-- ![snake gif](https://github.com/nafiswatsiq/nafiswatsiq/blob/output/github-contribution-grid-snake.gif) -->
